@@ -36,6 +36,9 @@ class produk {
             $str .= " - {$this->waktuMain} Jam. ";
         }
 
+
+        return $srt;
+
     }
 
 }
